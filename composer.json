@@ -1,7 +1,7 @@
 {
-    "name": "ricardoboss/laravel-user-settings",
+    "name": "dom1no/laravel-user-settings",
     "description": "Simple user settings facade for Laravel.",
-    "homepage": "https://github.com/ricardoboss/laravel-user-settings",
+    "homepage": "https://github.com/dom1no/laravel-user-settings",
     "license": "MIT",
     "authors": [
         {
@@ -17,9 +17,9 @@
     ],
     "require": {
         "php": "^7.2",
-        "illuminate/support": "^6.0",
-        "illuminate/config": "^6.0",
-        "illuminate/database": "^6.0",
+        "illuminate/support": "^6.0||^7.0",
+        "illuminate/config": "^6.0||^7.0",
+        "illuminate/database": "^6.0||^7.0",
         "ext-json": "*"
     },
     "autoload": {
